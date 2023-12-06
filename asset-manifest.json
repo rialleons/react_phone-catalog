@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2de6d56d.chunk.css",
+    "main.js": "./static/js/main.a1b4bc54.chunk.js",
+    "main.js.map": "./static/js/main.a1b4bc54.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.235a7850.chunk.js": "./static/js/2.235a7850.chunk.js",
+    "static/js/2.235a7850.chunk.js.map": "./static/js/2.235a7850.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.2de6d56d.chunk.css.map": "./static/css/main.2de6d56d.chunk.css.map",
+    "static/js/2.235a7850.chunk.js.LICENSE.txt": "./static/js/2.235a7850.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/Header.scss": "./static/media/icon_cart.1962e424.svg",
+    "static/media/Search.scss": "./static/media/icon_search.66a1fd86.svg",
+    "static/media/CartItemCard.scss": "./static/media/icon_plus.dea15724.svg",
+    "static/media/ProductAdd.scss": "./static/media/icon_favorites_selected.d554a185.svg",
+    "static/media/icon_home.d4c29e4f.svg": "./static/media/icon_home.d4c29e4f.svg",
+    "static/media/Footer.scss": "./static/media/icon_logo.13ce922e.svg",
+    "static/media/Pagination.scss": "./static/media/icon_vector_disabled.2a072ff1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.235a7850.chunk.js",
+    "static/css/main.2de6d56d.chunk.css",
+    "static/js/main.a1b4bc54.chunk.js"
+  ]
+}
